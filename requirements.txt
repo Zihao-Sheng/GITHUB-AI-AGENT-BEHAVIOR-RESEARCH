@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+duckdb
+networkx
+plotly
+pyvis
+python-louvain
+ipython
+jupyter
